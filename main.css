@@ -1,0 +1,40 @@
+/*Will able to everything as a default*/
+body{
+
+}
+
+/*IDs in css begin with a hashtag*/
+#idname{
+}
+
+/*CLASSES in css begin with a dot*/
+.classname{
+}
+.grey{
+    background-color: gray;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.black{
+    background-color: black;
+}
+.small{
+    height:100px;
+    width:500px;
+}
+.big{
+    width:500px;
+    height:300px;
+}
+
+
+
+
+
