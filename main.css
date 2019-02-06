@@ -24,6 +24,10 @@ body{
 }
 .black{
     background-color: black;
+
+}
+.trans{
+    background-color: transparent 
 }
 .small{
     height:100px;
@@ -33,8 +37,35 @@ body{
     width:500px;
     height:300px;
 }
+.big2{
+    height:100px;
+    width:100%;
+}
+.small2{
+    height:200px;
 
-
-
-
-
+}
+.half_l{
+    float: left;
+    width: 50%;
+}
+.half_r{
+    float: right;
+    width: 50%;
+}
+.third{
+    float: left;
+    width: 33.33%;
+}
+.quarter{
+    float: left;
+    width:25%;
+}
+.three_quarters{
+    float: right;
+    width:75%;
+}
+.two_thirds{
+    float: right;
+    width: 66.67%;
+}
