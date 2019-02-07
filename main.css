@@ -41,6 +41,14 @@ body{
     height:100px;
     width:100%;
 }
+.big3{
+    width: 400px;
+    padding: 8px;
+    border: 8px;
+    border-radius: 4px;
+    background-color: white;
+    float: center;
+}
 .small2{
     height:200px;
 
@@ -68,4 +76,7 @@ body{
 .two_thirds{
     float: right;
     width: 66.67%;
+}
+.h3{
+    margin: 0;
 }
