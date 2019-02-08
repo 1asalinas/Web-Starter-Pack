@@ -80,3 +80,9 @@ body{
 .h3{
     margin: 0;
 }
+.imgwidth{
+    width: 400px;
+}
+.imgheight{
+    height: auto;
+}
