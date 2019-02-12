@@ -6,7 +6,9 @@ body{
 /*IDs in css begin with a hashtag*/
 #idname{
 }
-
+html{
+    height: 100%;
+}
 /*CLASSES in css begin with a dot*/
 .classname{
 }
@@ -48,6 +50,7 @@ body{
     border-radius: 4px;
     background-color: white;
     float: center;
+    margin: 10px auto;
 }
 .small2{
     height:200px;
@@ -77,12 +80,43 @@ body{
     float: right;
     width: 66.67%;
 }
-.h3{
-    margin: 0;
-}
-.imgwidth{
+
+
+
+
+
+.imgsize{
     width: 400px;
-}
-.imgheight{
     height: auto;
+}
+.leftad{
+    float: left;
+    height: auto;
+    width: 200px;
+    padding: 5px;
+    background-color: black;
+    border-radius: 6px;
+}
+main{
+    height: auto;
+    width: 600px;
+    padding: 5px;
+    background-color: aliceblue;
+    border-radius: 6px;
+    margin: auto;
+}
+.rightad{
+    float: right;
+    height: auto;
+    width: 200px;
+    padding: 5px;
+    background-color: black;  
+    border-radius: 6px;  
+}
+.small4{
+    height:100px;
+    width:150px;
+    background-color: white;
+    border: 8px;
+    margin: 10px auto;
 }
